@@ -1,0 +1,28 @@
+name: VLTest
+favicon: null
+layout_spectrum: 0.17473374190740287
+typography_spectrum: 0.9376848982647061
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.33210425497964025
+  lightness: 0.583779281238094
+  saturation: 0.33554378361441195
+  rhythmicContrast: 0.4992844411171973
+purpose: []
